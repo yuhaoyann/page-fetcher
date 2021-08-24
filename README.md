@@ -4,6 +4,6 @@ Download page to local file
 
 ## Getting Started
 
-'node fetcher.js url flie'
+`node fetcher.js url flie`
 
-e.g.: 'node fetcher.js www.google.com google.html'
+e.g.: `node fetcher.js www.google.com google.html`
